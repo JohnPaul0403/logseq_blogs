@@ -1,0 +1,1 @@
+- This is a way to start analyzing my thoughts through arch and my computer. I honestly like this keyboard.

@@ -1,0 +1,17 @@
+## Purpose
+- This is a page to organize all my blogs. In this sense this blogs will be uploaded to my future website where I will show all of my progress and opinions over programming. This will be a way to handle my self-thoughts and manage to distress my mind, but also make my mind wind-down. Something that I really need to do urgently, in this way I will change a lot of things in my way of looking at things.
+- ## Solving my Problems
+- I do believe that when I write I can help my self to realize what my real problems are and what to improve. A lot of times I do understand or solve my problems but since everything is just in my mind I end-up forgetting. I really believe that by writing will make me a better rounded person in general and solve most of my issues and skills issues I currently have. Not just that but I can also feel how I auto-organize myself by providing my mind a moment to just relief all that's inside of me and show it to the world, even though I am not planning to do it for someone or for something I will just do it for myself, as a way to treat myself and how I handle my life and my mind-thoughts.
+- ## Helping to Log my Discoveries
+- I realize as well that over the days I end-up finding out a lot of interesting stuff throughout my way to explore the world and explore what is really on my beneath. I realize that forcing myself into a projection that I am not is just making me an incomplete person who carries-on a unnecessary weight for others. So for now on I'll let myself to be who he really wants to be, and that's a charismatic person with high standards but not in a material way but ratter in a peace of mind way.
+- My main goal is not to be the most famous person in the world or the richest man a life, but either the man with the most liberty of expression and thoughts. I like to my own opinions and express myself in ways I can only comprehend myself and most of the time I just like that, being myself alone or with very few people and express my way the things I see through my days.
+- ## Hobbies and Passions
+- Is not minder that my biggest passion in this world is programming, I just like to be in my computer create new things, solve interesting problems and just make things that just myself could ever admire. Most of the time this is what I like and what I love even though it makes me feel alone sometimes, I just love it. But asides from programming something that I've always find myself enjoying is gym and being gymrat, I love the gym and how this became part of my life and my self-improvement. Going to the gym make me the best version of myself and I will continue strong in that sense.
+- ## Current Interests
+	- I love Graphs and shortest paths algorithms, I just amazes me to see how a simple and efficient set of algorithms can solve task like this.
+	- I also love web development, specially using Vue and Nuxt (which wil be the framework I will use for my blogapp).
+	- I as well love data science and data discovery.
+	- I love trying out new OS like arch distros and so on.
+	- I really love Thinkpads and how slim and robust they are, I currently bought a Thinkpad T480s which soon in January I will be using!
+- ## Blogs
+- [[arch_linux_experience]]
