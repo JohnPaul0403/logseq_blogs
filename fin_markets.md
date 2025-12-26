@@ -1,0 +1,15 @@
+# Financial Markets
+- ## Black Scholes
+- A binomial tree, even though we can model out a stock using discrete time, reality is that in a real market, we can trade options without exercising them. This makes the pricing continuous, and not discrete, in this sense, we will change pricing based on different states of the world.
+- We will assume the stock does not pay dividends. We will also understand the returns are not dependent to each other. This means that the stocks move on a fixed volatility, which is divided by realized volatility and the implied volatility. We will also assume that the average return of a stock will be the expected return of the given stock. Therefore:
+	- $\mu$: Expected return based on $$\mu\Delta t$$
+	- $\sigma$: Volatility of the return of the stocks
+- We assume: $$lnS_t ~ \theta(lnS_0 + (\mu - \frac{\sigma^2}{2})T, \sigma^2 T)~$$
+- Then: $E[S_t] = S_0 e^{\mu T}$
+- ### Solution:
+	- $c = S_0 \mu(d_1) - k e^{-\gamma T} \mu(d_1)$
+	- $p = K e^{- \gamma T} \mu(-d_2) - S_0 \mu(d_1)$
+- Where:
+	- $d_1 = \frac{ln(S_0|k) + (\gamma + \frac{\sigma^2}{2})T}{\sigma \sqrt{T}}$
+	- $d_2 = \frac{ln(S_0|k) + (\gamma + \frac{\sigma^2}{2})T}{\sigma \sqrt{T}}$
+-
