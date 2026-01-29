@@ -30,3 +30,19 @@
 - This app should help users to easily navigate and make them purchase any good or service they wish.
 - Subscriptions models for exclusive deals.
 - Verification system system, not just Korean Id but also a way to verify the person is real via Persona or similar
+- # Product Stages
+- ## Stage 1
+- At this stage the core idea is to properly implement all the basic crud operations and get from the core Marketplace Idea into a a viable improvement point.
+- At this point the product must have visual appeal and a way to interact with the users.
+- We will also at this point properly implement all the core models and features between the project scope.
+- Status: **Completed**
+- ## Stage 2
+- At the second stage the core objective is to implement the relationships between products and creators.
+- At this point we are not looking into create personalized insights or track user's interactions to give better experiences, but rather helps users in a sense of finding people, emails for alerts, and a better implemented checkout process.
+- By this point the user can checkout with both P2P and credit card (Safe transaction).
+- Sellers will be required to send a tracking number to set the product as shipped.
+- Support for both Korean and English (with objective of more in the future).
+- At this point we will not yet implement:
+	- Personalization Processes
+	- Multi-language support asides from Korean and English
+	- Native-app bundlers

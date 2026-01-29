@@ -1,1 +1,5 @@
-- [[MATH 132]] Understanding the limits of numbers
+- [[MATH 132]] Understanding the limits of numbers.
+- [[MATH 220]] Linear Algebra.
+- [[CS 202]] Data Structures and Algorithms
+- [[CS 319]] Object-Oriented Design
+- [[MATH 210]] Finite & Discrete Math
